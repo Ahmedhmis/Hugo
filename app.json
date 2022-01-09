@@ -9,7 +9,7 @@
         "python",
         "hugo"
     ],
-    "repository": "https://github.com/TeamHugoX/Hugo",
+    "repository": "https://github.com/Ahmedhmis/Hugo",
     "success_url": "https://t.me/HugoProject",
     "stack": "container",
     "env": {
