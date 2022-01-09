@@ -25,7 +25,7 @@ How to get the `SESSION_STRING`, please use the method on the telegram bot:
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?&template=https://github.com/TeamHugoX/Hugo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?&template=https://github.com/Ahmedhmis/Hugo)
 
 # License
 Hugo is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
